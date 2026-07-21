@@ -5,7 +5,6 @@ draft = false
 title = 'Index'
 cover = "/img/generic/jssIndexIcon.png"
 +++
-
 # Welcome to Sonic Riders Database!
 
 ### Don't mind the mess, this site is a work in progress.
