@@ -34,3 +34,4 @@ GitHub: https://github.com/KidWizardOfTheWeb
 - **Jordo** - Contributor
 - **Karmas** - Contributor
 - **Sir Genexis** - Contributor
+- **SilentEye** - Contributor
