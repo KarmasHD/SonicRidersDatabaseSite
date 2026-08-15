@@ -32,4 +32,4 @@ GitHub: https://github.com/KidWizardOfTheWeb
 - **Kid Chameleon/Ekirugi** - Lead Maintainer of sonicriders.info
 - **1tzFresh** - Contributor
 - **Jordo** - Contributor
-- **Metal Shane* - Contributor
+- **Metal Shane** - Contributor
