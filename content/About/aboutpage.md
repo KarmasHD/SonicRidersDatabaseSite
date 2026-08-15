@@ -36,3 +36,4 @@ GitHub: https://github.com/KidWizardOfTheWeb
 - **Sir Genexis** - Contributor
 - **SilentEye** - Contributor
 - **Metal Shane** - Contributor
+- **SnowieF0XX** - Contributor
