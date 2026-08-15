@@ -33,3 +33,4 @@ GitHub: https://github.com/KidWizardOfTheWeb
 - **1tzFresh** - Contributor
 - **Jordo** - Contributor
 - **Karmas** - Contributor
+- **Sir Genexis** - Contributor
