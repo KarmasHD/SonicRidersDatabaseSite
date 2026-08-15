@@ -35,3 +35,4 @@ GitHub: https://github.com/KidWizardOfTheWeb
 - **Karmas** - Contributor
 - **Sir Genexis** - Contributor
 - **SilentEye** - Contributor
+- **Metal Shane** - Contributor
