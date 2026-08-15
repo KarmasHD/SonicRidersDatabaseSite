@@ -32,4 +32,5 @@ GitHub: https://github.com/KidWizardOfTheWeb
 - **Kid Chameleon/Ekirugi** - Lead Maintainer of sonicriders.info
 - **1tzFresh** - Contributor
 - **Jordo** - Contributor
+- **Karmas** - Contributor
 - **Sir Genexis** - Contributor
